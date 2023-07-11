@@ -21,3 +21,5 @@ Make predictions.
 This code will create a simple neural network with one hidden layer and 10 output neurons. The model will be trained for 10 epochs, and then it will be evaluated on the test set. The test accuracy of the model should be around 98%.
 
 You can run this code in a Python environment. If you don't have a Python environment, you can install Anaconda, which is a distribution of Python that includes all the necessary libraries for machine learning
+
+
