@@ -2,7 +2,7 @@
 MNIST Digits Classification Neural Network in Python, Keras
 # Language used : python
 ## Technologies Used
-flask,numpy,seaborn,matplotlib,Sklearn,keras
+numpy,seaborn,matplotlib,Sklearn,keras
 
 ## Usage
 Handwritten digit recognition is a classic machine learning problem that has been studied for many years. The MNIST dataset is a popular dataset used for this task, and it contains 60,000 training images and 10,000 testing images of handwritten digits.
