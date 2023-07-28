@@ -1,4 +1,4 @@
-# handwritten-digits-recognition
+# Handwritten-digits-recognition
 MNIST Digits Classification Neural Network in Python, Keras
 # Language used : python
 ## Technologies Used
